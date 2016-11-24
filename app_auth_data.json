@@ -1,0 +1,15 @@
+{
+    "status": 200,
+    "meta": {
+        "clientversion": "3.0",
+        "interfaceversion": "v1",
+        "siteid": "soliverDE",
+        "brandid": "soliver",
+        "region": "DE",
+        "locale": "de_DE"
+    },
+    "service": {
+        "rsapublickey": "-----BEGIN PUBLIC KEY-----MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAxF/Z8OZ5K5dZgw6JvYKFBgCyln92NZbBZoQCroBBLS92oRoFRcdJAFkkYZB1bTz8mLENb+500hOnvMd1lLUpdbFC/BfhY3X7XvSDsMChwu2KAcaJWaqzx66bBhz1OnroG4W8QJxjVXvIrxnKOm1EY6WITVC/xb79JeLBiripfpkZu2ThJ0i5andsJPogIVPVPYL77vNPHv9jylmD9lSLMPuULIQhpjWKf/Cs8nbJM8qEUsKjmAt33sD47g1aSSrat/s2oDRlY1eMajWmhvKNCia28shCHzUNbBHoYmYGbMVZnCvxuYxT6y+NESdfupIOig/9bFNHQjhdnOH/mCssvGcM55dwFUpF8giSryqRzi9P3xDn6ATilQxPLuojL6Y2uiCxvpTp1fio9+wpqvjlaGUKiD8osR7EdNqKkdO0wc283XLlWCTx3MaW6AQsOi5TdSeO38DxnLLJ7wdiGYtmVhj83xBvqkD1buDCvIbl62YcGE7Onb7QNJTds/TfFHn9DFH3hz4M//U8srYaZO5occPF4nvihniRF8S4MJyt0H/ia3R9nnumFJWcNQnFu/4An1ZjYNbPgBUr6no6UF9X/6wkBWbCJkGRS4G1q8ajiYFGUl4uA3ul5Ih5ReFHqbgTF4UHZ7AibvTCjOrBvvHx8RkQwKe/eP83AWR3nSQ8NHkCAwEAAQ==-----END PUBLIC KEY-----",
+        "timestamp": "1476194491"
+    }
+}
